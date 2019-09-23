@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ghost()
+comment1.params=color\ speed\ level
+comment1.target=Ghost(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ bumpSpeed()
+comment4.params=bump
+comment4.target=void\ bumpSpeed(int)
+comment5.params=
+comment5.target=void\ doubleColor()
+numComments=6
